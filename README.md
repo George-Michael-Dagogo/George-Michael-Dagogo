@@ -5,9 +5,9 @@
 
 
 - 🔭 Currently working on all things Data Analytics
-- 🌱 Actively learning Machine Learning and Deep Learning  🤣
+- 🌱 Actively learning Data Engineering
 - 👯 I’m looking to collaborate with other Data Analysts/ Scientists
-- 🥅 2021 Goals: Get a job in the Data Science field and learn as I Grow
+- 🥅 2022 Goals: Get a job in the Data Engineering field and learn as I Grow
 - ⚡ Fun fact: I love writing thrilling comic stories
 
 
