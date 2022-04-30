@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/kai_omni?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkai_omni&screen_name=kai_omni)
 
 
-- 🔭 Currently working on all things Data Analytics
+- 🔭 Currently working on all things Data Engineering
 - 🌱 Actively learning Data Engineering
 - 👯 I’m looking to collaborate with other Data Analysts and Data Engineers
 - 🥅 2022 Goals: Get a job in the Data Engineering field and learn as I Grow
