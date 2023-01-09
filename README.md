@@ -49,4 +49,4 @@
 [twitter]: https://twitter.com/kai_omni
 
 
-[linkedin]: linkedin.com//in/michael-dagogo/
+[linkedin]: https://linkedin.com//in/michael-dagogo/
