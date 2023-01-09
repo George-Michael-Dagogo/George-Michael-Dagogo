@@ -1,4 +1,4 @@
-### Hi there, I'm George Michael - aka GeeKaizer 👋
+### Hi there, I'm George Michael - aka Omni Kai 👋
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kai_omni?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkai_omni&screen_name=kai_omni)
@@ -22,8 +22,8 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python--v2.png"/>]
+[<img align="left" alt="Python" width="36" height="36"  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" />]
+[<img align="left" alt="PostgreSQL" width="36" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"/>]
 [<img align="left" alt="jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />]
 [<img align="left" alt="MS Excel" width="26px"  src="https://img.icons8.com/color/48/000000/ms-excel.png" />]
 [<img align="left" alt="Django" width="26px"  src="https://img.icons8.com/color/48/000000/django.png"/>]
