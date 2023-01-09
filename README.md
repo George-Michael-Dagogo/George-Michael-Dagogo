@@ -28,7 +28,7 @@
 [<img align="left" alt="Storm" width="36" height="36" src="https://www.vectorlogo.zone/logos/apache_storm/apache_storm-icon.svg" />]
 [<img align="left" alt="Cassandra" width="36" height="36" src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" />]
 [<img align="left" alt="Cassandra" width="36" height="36" src="https://vectorwiki.com/images/OyF8x__prefect.svg" />]
-[<img align="left" alt="jupyter Notebook" width="36" height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />]
+[<img align="left" alt="Bash" width="36" height="36" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />]
 [<img align="left" alt="SQL" width="36" height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 [<img align="left" alt="Git" width="36" height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
