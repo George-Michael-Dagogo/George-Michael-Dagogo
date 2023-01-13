@@ -33,12 +33,8 @@
 [<img align="left" alt="Bash" width="36" height="36" src="https://github.com/gilbarbara/logos/blob/main/logos/bash-icon.svg" />]
 [<img align="left" alt="Docker" width="36" height="36" src="https://github.com/gilbarbara/logos/blob/main/logos/docker-icon.svg" />]
 [<img align="left" alt="Github_actions" width="36" height="36" src="https://github.com/gilbarbara/logos/blob/main/logos/github-actions.svg" />]
-
-
-
 [<img align="left" alt="Kafka" width="26px" src="https://github.com/gilbarbara/logos/blob/main/logos/kafka-icon.svg" />]
 [<img align="left" alt="Metabase" width="26px" src="https://github.com/gilbarbara/logos/blob/main/logos/metabase.svg" />]
-
 [<img align="left" alt="Azure" width="26px" src="https://github.com/gilbarbara/logos/blob/main/logos/microsoft-azure.svg" />]
 
 
