@@ -34,6 +34,9 @@
 [<img align="left" alt="Docker" width="36" height="36" src="https://github.com/gilbarbara/logos/blob/main/logos/docker-icon.svg" />]
 [<img align="left" alt="Github_actions" width="36" height="36" src="https://github.com/gilbarbara/logos/blob/main/logos/github-actions.svg" />]
 [<img align="left" alt="Kafka" width="26px" src="https://github.com/gilbarbara/logos/blob/main/logos/kafka-icon.svg" />]
+[<img align="left" alt="Metabase" width="26px" src="https://github.com/gilbarbara/logos/blob/main/logos/metabase.svg" />]
+
+[<img align="left" alt="Azure" width="26px" src="https://github.com/gilbarbara/logos/blob/main/logos/microsoft-azure.svg" />]
 [<img align="left" alt="Git" width="36" height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
