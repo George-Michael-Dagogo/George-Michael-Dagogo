@@ -7,7 +7,7 @@
 - 🔭 Currently working on all things Data Engineering
 - 🌱 Actively learning Data Engineering
 - 👯 I’m looking to collaborate with other Data Analysts and Data Engineers
-- 🥅 2022 Goals: Get a job in the Data Engineering field and learn as I Grow
+- 🥅 2023 Goals: Get a job in the Data Engineering field and learn as I Grow
 - ⚡ Fun fact: I love writing thrilling comic stories
 
 
